@@ -1,0 +1,7 @@
+com\example\wsBLI\Message.class
+com\example\controller\baseController.class
+com\example\wsBLI\OutputMessage.class
+com\example\controller\wsController.class
+com\example\websocketExample\MongoConfig.class
+com\example\websocketExample\WebsocketExampleApplication.class
+com\example\Config\WebSocketConfig.class
